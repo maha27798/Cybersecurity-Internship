@@ -66,7 +66,21 @@ CSRF protection was properly implemented, and unauthorized requests failed.
 * Application followed secure authentication and session handling.
 * Ethical hacking techniques were successfully practiced in a safe lab.
 
----
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_02_34_26" src="https://github.com/user-attachments/assets/500d6463-eccd-4ede-9465-6e06a498ee5a" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_02_51_35" src="https://github.com/user-attachments/assets/6b5afa58-ebb9-4463-ad10-a389cd3c8333" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_02_57_35" src="https://github.com/user-attachments/assets/7416c05d-c4af-47ef-ab5e-9773723b217b" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_02_57_46" src="https://github.com/user-attachments/assets/02419160-2daa-44da-90f1-9d7acce3505c" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_02_59_09" src="https://github.com/user-attachments/assets/bdae59d9-9b93-4412-b9b2-d5a3421b3ec7" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_03_00_48" src="https://github.com/user-attachments/assets/ec7c6b90-1e30-4a93-a66a-9fd71ad6580b" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_03_00_58" src="https://github.com/user-attachments/assets/e33f6b7e-bbe5-4be7-be6d-e915f159902a" />
+
+<img width="1920" height="1079" alt="Screenshot_2025-12-28_03_11_28" src="https://github.com/user-attachments/assets/52bba97b-3841-426d-8e6f-58e4f51e6d1b" />
 
 ## 🗓️ Week 6: Advanced Security Audits & Secure Deployment
 
