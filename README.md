@@ -3,8 +3,11 @@
 ## Weeks 5 & 6: Ethical Hacking, Security Audits & Secure Deployment
 
 **Intern Name:** Maha
+
 **Project:** Web Application Security Assessment
+
 **Environment:** Kali Linux, OWASP Juice Shop
+
 **Repository:** Cybersecurity-Internship
 
 ---
